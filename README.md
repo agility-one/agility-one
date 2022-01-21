@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on nothing for the moment ...
 - 📫 Use https://www.notion.so - dashbard project type WYSIWYG (What You See Is What You Get)
 - ✨ I love my raspberry and the best project for this little board is on https://openjarvis.com/
+- 
+#### GIT commands https://gist.github.com/aquelito/8596717 ####
 
 <!---
 agility-one/agility-one is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
