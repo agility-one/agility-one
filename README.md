@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning HTML 5.0 CSS J.S PHP MySQL Python
 - 💞️ I’m looking to collaborate on nothing for the moment ...
 - 📫 Use https://www.notion.so - dashbard project type WYSIWYG (What You See Is What You Get)
-
-WYSWYG
+- ✨ I love my raspberry and the best project for this little board is on https://openjarvis.com/
 
 <!---
 agility-one/agility-one is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
