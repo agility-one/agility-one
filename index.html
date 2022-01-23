@@ -2,7 +2,7 @@
 <html lang="Robotics">
 <head>
     <title>Formation in progress ...</title>
-    <!-- <meta http-EQUIV="Refresh" CONTENT="3; url=https://www.impots.gouv.fr/portail/"> -->
+        <meta http-EQUIV="Refresh" CONTENT="3; url=https://www.impots.gouv.fr/portail/">
         <meta charset="UTF-8">
         <meta name="description" content="Projet de formation, diplome, site web">
         
@@ -10,7 +10,7 @@
         <meta name="twitter:author" content="@team_rocket_org"/>
 
         <link rel="apple-touch-icon" sizes="32x32" href="images/apple-pi-touch.png">
-        <link rel="canonical" href="https://developer.mozilla.org/fr/docs/Web/API/WebGL_API">
+        <link rel="canonical" href="">
         <link rel="stylesheet" href="css/main.css" >
 
         <style media="print">.on-github,</style>
@@ -37,6 +37,7 @@
         <li>
             <a href="#">MySQL</a>
         </li>
+            <a href="https://developer.mozilla.org/fr/docs/Web/API/WebGL_API">WebGL Docs</a>
         </ul>
 
     <p><div><img src="" width=""></div></p>
@@ -48,6 +49,14 @@
     #### Args avec cmd pour win32 : "python -m http.server 8000 --bind 127.0.0.1 --directory %drive%:/python/html/"
 
 # script http.server.py python 3.x
+def run(server_class=HTTPServer, handler_class=BaseHTTPRequestHandler):
+    server_address = ('', 8000)
+    httpd = server_class(server_address, handler_class)
+    httpd.serve_forever()
+
+######################################################################################################################
+
+# 
 # -*- coding: utf-8 -*-
 import asyncio
 import hashlib
