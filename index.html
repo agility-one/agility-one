@@ -47,10 +47,15 @@
     #### cd "dossier_python_embedded"
     #### mkdir html
     #### Args avec cmd pour win32 : "python -m http.server 8000 --bind 127.0.0.1 --directory %drive%:/python/html/"
+    
+###################################################
+# script web serveur html - srv-web.py python 3.x #
+# #################################################
 
-# script http.server.py python 3.x
+# import HTTPServer
+
 def run(server_class=HTTPServer, handler_class=BaseHTTPRequestHandler):
-    server_address = ('', 8000)
+    server_address = ('127.0.0.1', 8000)
     httpd = server_class(server_address, handler_class)
     httpd.serve_forever()
 
