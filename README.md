@@ -22,5 +22,9 @@ You can click the Preview link to take a look at your changes.
 - CVS open-source (No GAFAM for the moment ...)
 - https://gitlab.com/gitlab-org/gitlab
 
-- page github.io
+- page github.io (mettre a jour avec jekyll)
 - https://putaindecode.io/articles/creer-un-site-web-gratuitement-avec-github-pages/
+- https://jekyllrb.com/
+
+- GUI for github maintain
+- https://desktop.github.com/
