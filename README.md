@@ -1,3 +1,8 @@
+#### A tiny low cost computer for all your projects ####
+- https://www.kubii.fr/
+- https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
+
+#### Whoami ####
 - 👋 Hi, I’m @agility-one
 - 👀 I’m interested in O.S and web O.S open source 
 - 🌱 I’m currently learning HTML 5.0 CSS J.S PHP MySQL Python
@@ -12,19 +17,27 @@ agility-one/agility-one is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-- images réalisées avec pinta et paint.net
+#### Utils software & links ####
+# Open source OS for Raspberry #
+- https://raspberry-pi.fr/telechargements/
+
+# Open source OS linux and free unix for computer #
+- https://www.openbsd.org/faq/faq4.html#Download
+- https://www.debian.org/CD/http-ftp/
+
+# images réalisées avec pinta et paint.net #
 - https://www.pinta-project.com/
 - https://www.getpaint.net/
 
-- hebergeur gratuit
+# hebergeur gratuit #
 - https://fr.000webhost.com/inscription-site-gratuite
 
-- CVS open-source (No GAFAM for the moment ...)
+# CVS open-source (No GAFAM for the moment ...) #
 - https://gitlab.com/gitlab-org/gitlab
 
-- page github.io (mettre a jour avec jekyll)
+# page github.io (mettre a jour avec jekyll) #
 - https://putaindecode.io/articles/creer-un-site-web-gratuitement-avec-github-pages/
 - https://jekyllrb.com/
 
-- GUI for github maintain
+# GUI for github maintain #
 - https://desktop.github.com/
