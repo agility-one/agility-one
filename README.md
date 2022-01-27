@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 - hebergeur gratuit
 - https://fr.000webhost.com/inscription-site-gratuite
 
-- CVS open-source
+- CVS open-source (No GAFAM for the moment ...)
 - https://gitlab.com/gitlab-org/gitlab
 
 - page github.io
