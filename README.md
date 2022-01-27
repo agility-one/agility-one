@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
 # page github.io (mettre a jour avec jekyll) #
 - https://putaindecode.io/articles/creer-un-site-web-gratuitement-avec-github-pages/
 - https://jekyllrb.com/
+- https://rubyinstaller.org/
 
 # GUI for github maintain #
 - https://desktop.github.com/
