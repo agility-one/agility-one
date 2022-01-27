@@ -12,6 +12,7 @@
 
 #### GIT commands https://gist.github.com/aquelito/8596717 ####
 #### GitHub’s official command line tool (gh) https://github.com/cli/cli ####
+#### Aide mémoire GitHUB https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf ####
 
 <!---
 agility-one/agility-one is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
