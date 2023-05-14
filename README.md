@@ -1,6 +1,6 @@
 #### technical project with chatgpt 3.5 help & github projects ####
 - http://sid.artwork-debian.org:8080/test/shellyos-v2.php
-(with sgpt project + miniPaint + Visual studio code)
+(with embedded sgpt project + miniPaint + Visual studio code)
 
 #### A tiny low cost computer for all your projects ####
 - https://www.kubii.fr/
