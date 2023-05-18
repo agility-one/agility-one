@@ -1,4 +1,4 @@
-#### technical project with chatgpt 3.5 help & github projects ####
+#### technical project with chatgpt 3.5 help & github projects (100% Code Sale & Not 4 Sale !) ####
 - http://sid.artwork-debian.org:8080/test/shellyos-v2.php
 (with embedded sgpt project + miniPaint + Visual studio code)
 
